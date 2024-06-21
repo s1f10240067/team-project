@@ -1,5 +1,8 @@
 body {
     margin: 0;
+    background-image: url('https://www.japan-baseball.jp/files/visionpanel/47/panel_bg_image/news.jpg');
+    background-size: cover;
+    background-attachment: fixed;
   }
   
   h1 {
@@ -120,4 +123,7 @@ body {
     color: #ffffff;
     text-decoration: none;
   }
-  
+
+  #LEAGUE {
+    color:#fffdff
+  }
