@@ -129,5 +129,22 @@ body {
   }
 
   #chunichi{
-    background-image: url('https://dragons.jp/news/2024/image/gourmet-pm-kantoku1.png');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chunichi_Dragons_insignia.svg/225px-Chunichi_Dragons_insignia.svg.png');
+    background-size:contain;
+  }
+  
+  #DeNA{
+    background-image: url('https://www.yokohama-stadium.co.jp/_nuxt/img/logo-ydb.8e50005.svg');
+    background-size:contain;
+  }
+  
+  #giants{
+    background-image: url('https://prod-giants-site.imagewave.pictures/nUr9wKVsWSPXV59sNXJPSm?width=1200');
+    background-size:contain;
+    color: #ffffff;
+  }
+
+  #hanshin{
+    background-image: url('https://www.yokohama-stadium.co.jp/_nuxt/img/logo-ydb.8e50005.svg');
+    background-size:contain;
   }
