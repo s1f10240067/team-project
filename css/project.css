@@ -186,3 +186,23 @@
     border-right: solid 4px #ffffff;
     background-color: #f64545;
   }
+
+  #DeNA_color{
+    border-right: solid 4px #fbff00;
+    background-color: #38a5ff;
+  }
+
+  #giants_color{
+    border-right: solid 4px #000000;
+    background-color: #ff9000;
+  }
+
+  #yakult_color{
+    border-right: solid 4px #00ff00;
+    background-color: #0f228c;
+  }
+
+  #chunichi_color{
+    border-right: solid 4px #ffffff;
+    background-color: #4551f6;
+  }
