@@ -147,6 +147,32 @@ body {
   #hanshin{
     background-image: url('https://m.hanshintigers.jp/images/logo/logo_t.png');
     background-size:contain;
-    background-color: #0a0a0a;
-    color: #eeeeee;
+  }
+
+  #hiroshima{
+    background-image: url('https://m.hanshintigers.jp/images/logo/logo_t.png');
+    background-size:contain;
+  }
+
+  #yakult{
+    background-image: url('https://m.hanshintigers.jp/images/logo/logo_t.png');
+    background-size:contain;
+  }
+
+  #news{
+    background-image: url('../img/黒板（仮）.png');
+    background-size:contain;
+    color:#ffffff;
+  }
+
+  #news_p{
+    font-size: 18px;
+  }
+
+  #news_h3{
+    font-size: 24px;
+  }
+
+  #green{
+    color:#40ff00;
   }
