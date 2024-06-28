@@ -1,4 +1,4 @@
-body {
+  body {
     margin: 0;
     background-image: url('https://www.japan-baseball.jp/files/visionpanel/47/panel_bg_image/news.jpg');
     background-size: cover;
@@ -160,7 +160,7 @@ body {
   }
 
   #news{
-    background-image: url('../img/黒板（仮）.png');
+    background-image: url('../img/黒板.jpeg');
     background-size:contain;
     color:#ffffff;
   }
@@ -175,4 +175,14 @@ body {
 
   #green{
     color:#40ff00;
+  }
+
+  #hanshin_color{
+    border-right: solid 4px #000000;
+    background-color: #d0bb2f;
+  }
+
+  #hiroshima_color{
+    border-right: solid 4px #ffffff;
+    background-color: #f64545;
   }
