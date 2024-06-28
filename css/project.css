@@ -125,7 +125,7 @@ body {
   }
 
   #LEAGUE {
-    color:#fffdff
+    color:#ffffff;
   }
 
   #chunichi{
@@ -147,4 +147,6 @@ body {
   #hanshin{
     background-image: url('https://m.hanshintigers.jp/images/logo/logo_t.png');
     background-size:contain;
+    background-color: #0a0a0a;
+    color: #eeeeee;
   }
